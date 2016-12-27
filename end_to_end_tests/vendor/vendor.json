@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "L/ICb9RP0mT3gLM5L7+4W0kAjHc=",
+			"path": "github.com/codegangsta/negroni",
+			"revision": "cd9734011043904139c24dbad9a71b21f1586f36",
+			"revisionTime": "2016-11-27T19:24:14Z"
+		},
+		{
+			"checksumSHA1": "Y3U6on66N0BszKXYvb2Q+qpG6f4=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "5dd70ee059943e81987a817fa1a755b11dd119c1",
+			"revisionTime": "2016-12-03T08:33:52Z"
+		}
+	],
+	"rootPath": "github.com/cassiobotaro/building_web_apps/end_to_end_tests"
+}

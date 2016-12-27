@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "9NOEwusDSfhREf0ix7ULW9f3hhw=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "2d44decb4941c9cdf72c22297b7890faf7da9bcb",
+			"revisionTime": "2016-12-15T04:15:57Z"
+		},
+		{
+			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"path": "golang.org/x/net/context",
+			"revision": "45e771701b814666a7eb299e6c7a57d0b1799e91",
+			"revisionTime": "2016-12-15T19:42:18Z"
+		}
+	],
+	"rootPath": "github.com/cassiobotaro/building_web_apps/databases"
+}
